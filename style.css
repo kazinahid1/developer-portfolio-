@@ -20,6 +20,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50;
@@ -28,7 +29,7 @@ section{
 .half-width img{
     width: 100%;
     padding-top: 5%;
-    padding-right: 20%;
+   ma
 }
 .link-button{
 
@@ -39,4 +40,9 @@ section{
     color: white;
     font-weight: 700;
 
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
